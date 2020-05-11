@@ -1,2 +1,0 @@
-# baseprojecttemplate
-Created with CodeSandbox
